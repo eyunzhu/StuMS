@@ -1,3 +1,10 @@
+/*
+*	Author:e云竹
+*	E-mail：eyunzhu@foxmail.com
+*   个人博客：http://blog.csdn.net/eyunzhu
+*   个人网站：www.eyunzhu.com
+*	QQ:1036795373
+*/
 #ifndef HEAD_H_INCLUDED
 #define HEAD_H_INCLUDED
 
